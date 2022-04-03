@@ -11,6 +11,8 @@ scikit-learn = "*"
 matplotlib = "*"
 bokeh = "*"
 pysimplegui = "*"
+ipykernel = "*"
+jupyter = "*"
 
 [dev-packages]
 
