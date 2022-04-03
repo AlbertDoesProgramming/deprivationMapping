@@ -12,4 +12,8 @@ So I thought I'd use some of the skills I've developed since working as an analy
 * [LSOA GeoJson Shape File](https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2011-boundaries-super-generalised-clipped-bsc-ew-v3/about)
 * [LAD GeoJson Shape File](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021%2CGB))
 
-### I've just started this project. Will update in due course with more interesting stuff.
+### Goals
+Where is this project going? Right now I'm not entirely sure. I just want to practice some visualisation and data science techniques with a dataset that I'm relatively familiar with.
+
+Some medium term outcomes I'd like to come from this:
+1. A web accessible Choropleth that visualises 
