@@ -1,2 +1,4 @@
-'FilePaths':
-  'AllScoresRaw' : 'C:\repos\deprivationMapping\external\deprivation\imd_dv_all_scores.csv'
+'ImdPaths': {
+  'AllScoresRaw' : 'C:\repos\deprivationMapping\external\deprivation\imd_dv_all_scores.csv',
+  'SamhiScoresRaw' : 'C:\repos\deprivationMapping\external\Mental Health Data\samhi_21_01_v3.01_2011_2019_LSOA_tall.csv'
+}
